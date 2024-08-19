@@ -1,6 +1,6 @@
 # pdf-editor
 
-> simple pdf library with text field, image field, and some elements.
+> Simple PDF annotation with text field, image field, and some elements.
 > Mainly used Fabric.js library.
 
 [![NPM](https://img.shields.io/npm/v/pdf-editor.svg)](https://www.npmjs.com/package/pdf-editor) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
